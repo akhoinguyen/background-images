@@ -30,8 +30,8 @@ a {
 }
 
 .search-btn {
-background-image: linear-gradient(to bottom, #794431, #8e4332);
-border-color: #794331;
+  background-image: linear-gradient(to bottom, #794431, #8e4332);
+  border-color: #794331;
 }
 
 @media only screen and (min-width: 60em) {
